@@ -8,4 +8,9 @@ I know there are tons out there, but I always end up taking a bunch out and addi
 * Wordpress version info is hidden.
 * Uses LESS css for styles.
 
+*Very much work-in-progress*
+
+*enjoy*
+
+
 ================================
